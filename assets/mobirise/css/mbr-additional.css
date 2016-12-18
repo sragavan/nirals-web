@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+
+#menu-4 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#slider-3 P {
+  text-align: left;
+  color: #ffffff;
+}
+#slider-3 H1 {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+}
