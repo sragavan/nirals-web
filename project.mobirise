@@ -96,7 +96,7 @@
                 "showText": true,
                 "text": "An revolutionary &nbsp;communication platform for schools and colleges to connect with the &nbsp;parents. An exclusive mobile app in 6 languages, 3 platforms and a cloud portal to push messages to the mobile devices with a whote lot of innovative features &nbsp;",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://eduniv.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a>"
               },
               {
                 "active": true,
@@ -198,7 +198,7 @@
           },
           "title1": "EduNiv",
           "caption1": "A dedicated mobile app, in the name of the school focussed specifially on communication, media, academics and care. A simple and easy to use app in 6 languages...<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://eduniv.in\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
