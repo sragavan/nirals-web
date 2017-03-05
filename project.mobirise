@@ -133,7 +133,7 @@
                 "showText": true,
                 "text": "An IoT Product to keep your campus safe and secure. Automatic Attendance, Safe zone monitoring, Live &amp; History tracking of people in the campus without any physical swipe, or fingerprinting.&nbsp;",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.tagtik.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a>"
               }
             ],
             "fullScreen": true,
