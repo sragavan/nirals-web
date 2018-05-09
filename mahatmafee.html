@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="http://nirals.eduniv.in/js/jquery.redirect.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+  nav{
+    background: #e5e6e5;
+  }
+  body{
+    background: #e5e6e5;
+  }
+  div.pading{
+  	padding-top: 5%;
+  }
+  .color{
+    background: rgba(255, 255, 255,1);
+  }
+.center {
+	  margin: auto;
+    width: 23%;
+    padding: 20px;
+}
+
+
+  </style>
+
+<body>
+  <script type="text/javascript">
+    function send() {
+    var adm = $('#adm').val();
+    //alert(adm)  
+
+    $.redirect($("#school").val()+"onlinefee.php", {'mode': 'send', 'user': adm, 'fee': 'all'});
+
+    //    window.location = "sendsms.php?mode=send&unicode="+lcl+"&ph="+ph+"&msg="+msg;
+  }
+  </script>
+  <nav style="background:#e5e6e5; " class = "navbar navbar-default">
+  <div class = "container-fluid row" style="background: white">
+    <div class = "navbar-header col-md-2">
+        <img alt = "Nirals" src = "http://nirals.eduniv.in/images/nirals.png" height = "60px" vertical-align="middle">
+    </div>
+    <div class = "navbar-header col-md-8">
+      <h2 style="text-align: center;">Mahatma Group of schools Online Payment</h2>
+    </div>
+      
+    <div class = "navbar navbar-right col-md-2">
+      <div class = "navbar-inner" >
+        <img alt="Nirals" src="http://nirals.eduniv.in/images/iedu-red.png" height="60px" vertical-align="middle" style="padding-top:7px;">  
+      </div>
+    </div>
+  </div>
+</nav>
+	
+<div class="pading">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8 color">
+        <div class="pading row" align="middle">
+  
+  <label class="col-md-4">School Name<span style="color: red;">*</label>
+  <div class="col-md-6">
+        <select class=" form-control" id="school">
+<option value="">Select</option>
+<option value="http://mahatmaak.eduniv.in/">MAHATMA MONTESSORI RESIDENTIAL SCHOOL (MATRIC - ALAGARKOVIL)</option>
+<option value="http://mahatmaakcbse.eduniv.in/">MAHATMA MONTESSORI RESIDENTIAL SCHOOL(CBSE - ALAGARKOVIL)</option>
+<option value="http://mahatmababa.eduniv.in/">MAHATMA MONTESSORI MATRIC HR. SEC SCHOOL (BABA BUILDING SURVEYOR COLONY)</option>
+<option value="http://mahatmababacbse.eduniv.in/">MAHATMA MONTESSORI SCHOOL CBSE (BABA BUILDING SURVEYOR COLONY)</option>
+<option value="http://mahatmakknagar.eduniv.in/">MAHATMA MONTESSORI MATRIC HIGHER SEC SCHOOL(KK NAGAR)</option>
+<option value="http://mahatmagg.eduniv.in/">MAHATMA GLOBAL GATEWAY - CBSE</option>
+<option value="http://mahatmacambridge.eduniv.in/">MAHATMA GLOBAL GATEWAY - IGCSE</option>
+</select>
+  </div>
+<br/>  </div>
+<br/>
+<br/>
+<div class="row">
+  
+<label class="col-md-4" align='center'>Admission No<span style="color: red;">*</span></label>
+<div class="col-md-6"><input id="adm" class="form-control" type="" name=""/></div>
+
+     
+</div>
+<br/>
+<br/>
+
+<div class="row">
+    <label class="col-md-5"></label>
+    <div class="col-md-5">
+    <button onclick='send()' class="btn btn-primary">Send</button>
+    <br/><br/>
+    </div>
+  </div>
+      </div>
+    </div>
+</div>  
+  
+</body>
+</html>
