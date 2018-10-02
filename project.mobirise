@@ -8,12 +8,19 @@
       "styling": {}
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 21,
-    "versionPublish": "3.10.3",
+    "uniqCompNum": 22,
+    "versionPublish": "4.8.4",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://nirals.in",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
@@ -45,14 +52,14 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -95,8 +102,11 @@
           },
           "_params": {
             "autoplay": true,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
             "slides": [
               {
                 "active": false,
@@ -135,10 +145,7 @@
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.tagtik.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a>"
               }
-            ],
-            "fullScreen": true,
-            "bgColor": "#ffffff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider-3",
           "articleLayout": false
@@ -150,27 +157,27 @@
           "_name": "features1",
           "_anchor": "features1-c",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -336,26 +343,25 @@
           "_name": "content5",
           "_anchor": "content5-k",
           "_params": {
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#444444",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#444444",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": true,
             "overlay": true,
-            "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayOpacity": 0.2
           },
           "title": "Bangalore - Chennai - Tirupur - Coimbatore - Kovilpatti - Pondicherry",
           "meta": "By John Smith posted July 30, 2015",
@@ -363,43 +369,54 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<b>CORPORATE ADDRESS<br></b>F3 Windsor Heritage <br>6th Cross, Hulimavu Pai Layout<br>Bannerghetta Road,<br>Bangalore - 560076<br>India<br><br><b>CONTACTS<br></b>Email: <a href=\"mailto:care@nirals.in\">care@nirals.in</a><br>Phone: <a href=\"tel:+91 9632966318\">+91 96329 66318</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>SITE ADDRESS</b></p><p class=\"mbr-contacts__text\">6/1 Srinivasa Nagar</p><p class=\"mbr-contacts__text\">Raga Complex</p><p class=\"mbr-contacts__text\">Kovilpatti - 628502</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><b>LINKS</b></p><p class=\"mbr-contacts__text\"><b><a href=\"http://eduniv.in\" target=\"_blank\">www.eduniv.in</a></b></p><p class=\"mbr-contacts__text\"><b><a href=\"http://www.thabaals.in\" target=\"_blank\">www.thabaals.in</a></b></p><p class=\"mbr-contacts__text\"><b><a href=\"http://www.tagtik.in\" target=\"_blank\">www.tagtik.in</a></b></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ads@nirals.in",
+            "alerts": {
+              "success": "Thanks for filling out form! Our rockstars at Nirals will contact you shortly!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-e",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nlogo-265x74-51.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>F3 Windsor Heritage                   <br>6th Cross, Hulimavu Pai Layout<br>Bannerghett Road,<br>Bangalore - 560076<br>India<br>",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: care@nirals.in<br>\nPhone: +91 73734 00066<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.eduniv.in/\" target=\"_blank\">www.eduniv.in</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.thabaals.in\" target=\"_blank\">www.thabaals.in</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://www.tagtik.in\" target=\"_blank\">www.tagtik.in</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "_name": "contacts3",
+          "_anchor": "contacts3-l"
         },
         {
           "_tags": [
@@ -411,15 +428,15 @@
             "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#444444",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#444444",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Nirals Information Technologies Private Limited &nbsp;| &nbsp;&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2018 Nirals Information Technologies Private Limited &nbsp;| &nbsp;&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     }
