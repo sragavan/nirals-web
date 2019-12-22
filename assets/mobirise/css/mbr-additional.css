@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
 
 #menu-4 .mbr-brand__name {
@@ -9,7 +10,7 @@
   background: #2c2c2c;
 }
 #menu-4 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #c1c1c1;
 }
 #slider-3 P {
   text-align: left;
@@ -32,4 +33,116 @@
 }
 #content5-k .mbr-article {
   color: #fff;
+}
+
+
+
+
+
+
+
+#menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-p .mbr-navbar__hamburger {
+  color: #c1c1c1;
+}
+#content5-x .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-x .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-x .mbr-article {
+  color: #fff;
+}
+#content5-x .mbr-article P {
+  text-align: left;
+}
+#header3-y H3 {
+  text-align: center;
+  font-family: 'Droid Serif', serif;
+}
+#msg-box5-z .mbr-header__text {
+  color: #2c2c2c;
+  font-family: 'Droid Serif', serif;
+}
+#msg-box5-z .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-z .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-z .mbr-article P {
+  color: #2c2c2c;
+}
+#msg-box5-11 .mbr-header__text {
+  color: #2c2c2c;
+  font-family: 'Droid Serif', serif;
+}
+#msg-box5-11 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-11 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-11 .mbr-article P {
+  color: #2c2c2c;
+}
+#msg-box5-12 .mbr-header__text {
+  color: #2c2c2c;
+  font-family: 'Droid Serif', serif;
+}
+#msg-box5-12 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-12 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-12 .mbr-article P {
+  color: #2c2c2c;
+}
+#msg-box5-13 .mbr-header__text {
+  color: #2c2c2c;
+  font-family: 'Droid Serif', serif;
+}
+#msg-box5-13 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-13 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-13 .mbr-article P {
+  color: #2c2c2c;
+}
+#msg-box5-14 .mbr-header__text {
+  color: #2c2c2c;
+  font-family: 'Droid Serif', serif;
+}
+#msg-box5-14 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-14 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-14 .mbr-article P {
+  color: #2c2c2c;
+}
+#msg-box5-15 .mbr-header__text {
+  color: #2c2c2c;
+  font-family: 'Droid Serif', serif;
+}
+#msg-box5-15 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-15 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-15 .mbr-article P {
+  color: #2c2c2c;
 }
