@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 #menu-4 .mbr-brand__name {
@@ -34,9 +35,6 @@
 #content5-k .mbr-article {
   color: #fff;
 }
-
-
-
 
 
 
@@ -94,55 +92,52 @@
 #msg-box5-11 .mbr-article P {
   color: #2c2c2c;
 }
-#msg-box5-12 .mbr-header__text {
+#msg-box5-16 .mbr-header__text {
   color: #2c2c2c;
-  font-family: 'Droid Serif', serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
-#msg-box5-12 .mbr-header__subtext {
+#msg-box5-16 .mbr-header__subtext {
   color: #2c2c2c;
 }
-#msg-box5-12 .mbr-article {
+#msg-box5-16 .mbr-article {
   color: #ffffff;
 }
-#msg-box5-12 .mbr-article P {
+#msg-box5-16 .mbr-article P {
   color: #2c2c2c;
 }
-#msg-box5-13 .mbr-header__text {
-  color: #2c2c2c;
-  font-family: 'Droid Serif', serif;
-}
-#msg-box5-13 .mbr-header__subtext {
+#msg-box5-17 .mbr-header__text {
   color: #2c2c2c;
 }
-#msg-box5-13 .mbr-article {
+#msg-box5-17 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-17 .mbr-article {
   color: #ffffff;
 }
-#msg-box5-13 .mbr-article P {
+#msg-box5-17 .mbr-article P {
   color: #2c2c2c;
 }
-#msg-box5-14 .mbr-header__text {
-  color: #2c2c2c;
-  font-family: 'Droid Serif', serif;
-}
-#msg-box5-14 .mbr-header__subtext {
+#msg-box5-18 .mbr-header__text {
   color: #2c2c2c;
 }
-#msg-box5-14 .mbr-article {
+#msg-box5-18 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-18 .mbr-article {
   color: #ffffff;
 }
-#msg-box5-14 .mbr-article P {
+#msg-box5-18 .mbr-article P {
   color: #2c2c2c;
 }
-#msg-box5-15 .mbr-header__text {
-  color: #2c2c2c;
-  font-family: 'Droid Serif', serif;
-}
-#msg-box5-15 .mbr-header__subtext {
+#msg-box5-19 .mbr-header__text {
   color: #2c2c2c;
 }
-#msg-box5-15 .mbr-article {
+#msg-box5-19 .mbr-header__subtext {
+  color: #2c2c2c;
+}
+#msg-box5-19 .mbr-article {
   color: #ffffff;
 }
-#msg-box5-15 .mbr-article P {
+#msg-box5-19 .mbr-article P {
   color: #2c2c2c;
 }

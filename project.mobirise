@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 42,
+    "uniqCompNum": 49,
     "versionPublish": "4.8.8",
     "favicon": "",
     "noImageResize": "",
@@ -438,7 +438,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -603,10 +603,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/srini-1280x853.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -668,10 +671,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/img-6018-1400x1867.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -693,8 +699,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#2c2c2c",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             ".mbr-header__subtext": {
               "color": "#2c2c2c"
@@ -713,8 +719,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "28",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -733,10 +739,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/prab-1249x1255.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -744,22 +753,20 @@
               "loop": false
             }
           },
-          "title": "P Prabakaran<br>",
+          "title": "P Prabakaran",
           "meta": "Vice President of Sales &amp; Marketing",
-          "text": "<p>One man army. Leads on Technology, Support, Sales. But Very Very Passionate about Sales with more &nbsp;than 150 clients in 4 years.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Linkedin</a> ",
+          "text": "<p>One man army. Leads on Technology, Support, Sales. But Very Very Passionate about Sales with more  than 150 clients in 4 years.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-12"
+          "_anchor": "msg-box5-16"
         },
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#2c2c2c",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+              "color": "#2c2c2c"
             },
             ".mbr-header__subtext": {
               "color": "#2c2c2c"
@@ -778,8 +785,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "28",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -798,10 +805,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/parmala-ph-960x1280.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -812,19 +822,17 @@
           "title": "R Parimala",
           "meta": "Chief Product Manager",
           "text": "<p>Envisioned many customer problems and designed everyone into features &amp; products. Serious about user and how they perceive. 100% accuracy in transforming requirements to real use products. Built, Heads our product support infrastructure.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Linkedin</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-13"
+          "_anchor": "msg-box5-17"
         },
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#2c2c2c",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+              "color": "#2c2c2c"
             },
             ".mbr-header__subtext": {
               "color": "#2c2c2c"
@@ -843,8 +851,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "28",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -863,10 +871,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/img-5266-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -874,22 +885,20 @@
               "loop": false
             }
           },
-          "title": "Ponsamarian<br>",
+          "title": "Ponsamarian",
           "meta": "Architect",
-          "text": "<p>Hard core developer, &nbsp;Strong logical thinker, builds teams and people who are committed at heart and clones himself in them with technology. Success behind our successful launches</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Linkedin</a> ",
+          "text": "<p>Hard core developer,  Strong logical thinker, builds teams and people who are committed at heart and clones himself in them with technology. Success behind our successful launches</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-14"
+          "_anchor": "msg-box5-18"
         },
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#2c2c2c",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
+              "color": "#2c2c2c"
             },
             ".mbr-header__subtext": {
               "color": "#2c2c2c"
@@ -908,8 +917,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "28",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -928,10 +937,13 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/soundar-983x983.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
@@ -939,15 +951,15 @@
               "loop": false
             }
           },
-          "title": "P Soundar<br>",
+          "title": "P Soundar",
           "meta": "Manager &amp; Product Consultant",
-          "text": "<p>Our Strongest technical leader in product handling. Bridges between customers and the technical team.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Linkedin</a> ",
+          "text": "<p>Our Strongest technical leader in product &amp; issue handling. Bridges between customers and the technical team.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-15"
+          "_anchor": "msg-box5-19"
         },
         {
           "_tags": [
